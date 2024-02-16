@@ -23,7 +23,7 @@ A single page text editor that meets PWA criteria and features a number of data 
 
 ## Screenshot
 
-![Just Another Text Editor](./Develop/client/dist/assets/JATE.png)
+![Just Another Text Editor](./client/dist/assets/JATE.png)
 
 ## License
 
