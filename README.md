@@ -1,15 +1,16 @@
 # PWA-Text-Editor
 
+## Table of Contents
+
+- [Description](#description)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [License](#license)
+- [Github](#github)
+
 ## Description
 
 A single page text editor that meets PWA criteria and features a number of data persistence techniques that serve as reduancy in case one of the options is not supported by the browser. It allows users to create notes or code snippets with or without an internet connection.
-
-## Table of Contents
-
-- [Usage] (#usage)
-- [Screenshot] (#screenshot)
-- [Liscense] (#license)
-- [Github] (#github)
 
 ## Usage
 
@@ -22,7 +23,7 @@ A single page text editor that meets PWA criteria and features a number of data 
 
 ## Screenshot
 
-![Just another text editor] (./Develope/client/dist/assets/JATE.png)
+![Just Another Text Editor](./Develop/client/dist/assets/JATE.png)
 
 ## License
 
